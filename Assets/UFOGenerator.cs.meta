@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e23fe549a45ba444d84a0c72aae5cf03
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UFOPrefab: {fileID: 7124447968275092455, guid: 125b110810315544b8a8915ffd578b84,
+      type: 3}
+  - Player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
